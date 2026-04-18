@@ -1,13 +1,23 @@
-# skylv-multi-agent-orchestrator
+# Multi Agent Orchestrator
 
-multi agent orchestrator - OpenClaw Skill
+> multi agent orchestrator - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-multi-agent-orchestrator
 ```
 
-## Description
-An OpenClaw skill for multi agent orchestrator.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-multi-agent-orchestrator
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
