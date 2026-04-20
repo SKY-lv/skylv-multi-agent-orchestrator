@@ -1,8 +1,8 @@
 ---
 name: "multi-agent-orchestrator"
 slug: skylv-multi-agent-orchestrator
-version: 1.0.0
-description: "多Agent编排系统设计助手。设计Agent协作、任务分配、消息路由、状态管理。触发词：多agent、编排、协作、agent系统。"
+version: 1.0.2
+description: Multi-agent orchestration designer. Designs agent collaboration, task routing, and state management. Triggers: multi-agent, agent orchestration, agent collaboration.
 author: SKY-lv
 license: MIT-0
 tags: [multi, openclaw, agent]
